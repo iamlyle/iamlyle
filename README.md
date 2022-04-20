@@ -6,8 +6,9 @@ Enjoy working with embbeded C.
 - 👀 I’m interested in smart and automatic things.
 - 🌱 I'm striving to be a good programmer for embedded systems.
 - 🤝 I’m looking to collaborate on C or Python projects.
-- 📫 How to reach me www.linkedin.com/in/lecongly98
-
+- 📫 How to reach me:
+> - www.linkedin.com/in/lecongly98
+> - https://iamlyle.github.io/my-profile
 # project
 T.B.D
 
