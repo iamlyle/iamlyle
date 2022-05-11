@@ -2,6 +2,8 @@ Open, aggressive and friendly.
 Love to learn new things, especially things related to Internet of Things.
 Enjoy working with embbeded C.
 
+![](https://komarev.com/ghpvc/?username=iamlyle&color=yellow)
+
 - 👋 Hi you guys, call me Ly Le.
 - 👀 I’m interested in smart and automatic things.
 - 🌱 I'm striving to be a good programmer for embedded systems.
