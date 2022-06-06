@@ -1,6 +1,6 @@
-Open, aggressive and friendly.
-Love to learn new things, especially things related to Internet of Things.
-Enjoy working with embbeded C.
+Open, aggressive and friendly.\
+Love to learn new things, especially things related to Internet of Things.\
+Enjoy working with embbeded C.\
 
 ![](https://komarev.com/ghpvc/?username=iamlyle&color=yellow)
 
