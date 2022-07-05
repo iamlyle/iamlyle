@@ -11,7 +11,7 @@ Enjoy working with embbeded C.
 - 🤝 I’m looking to collaborate on C or Python projects.
 - 📫 How to reach me:
 > - www.linkedin.com/in/lecongly98
-> - https://iamlyle.github.io/my-profile
+> - https://iamlyle.github.io/lecongly/
 # project
 T.B.D
 
