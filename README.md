@@ -1,17 +1,16 @@
 ![](https://komarev.com/ghpvc/?username=iamlyle&color=yellow)
 
-Open, aggressive, and friendly.\
-Love to learn new things, especially things related to the Internet of Things.\
-Enjoy working with embedded C.
-
+<img src="https://cdn.pixabay.com/photo/2023/06/06/15/55/computer-8045000_960_720.jpg" width="600" height="400"/>
 
 - 👋 Hi there! You can call me Ly Le.
 - 👀 I have a strong interest in smart and automated systems.
 - 🌱 My goal is to become a proficient programmer in embedded systems.
-- 🤝 Currently, I'm open to collaborating on C or Python projects.
-- 📫 How to reach me:
-> - www.linkedin.com/in/lecongly98
-> - https://iamlyle.github.io/lecongly/
+- 🤝 Currently, I'm open to collaborating on projects.
+### 📫 How to reach me:
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40"/>](https://github.com/iamlyle)
+&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40"/>](https://www.linkedin.com/in/lecongly98)
+&nbsp;
 ### 💻 Tech Stack
 - 🔧 Languages: C, Python, Perl, ...
 - 🛠️ Tools: Git, Canoe, VS Code, ...
